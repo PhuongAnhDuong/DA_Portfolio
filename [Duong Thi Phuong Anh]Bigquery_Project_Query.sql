@@ -28,7 +28,6 @@ ORDER BY COUNT(totals.visits) DESC
 -- Query 3: Revenue by traffic source by week, by month in June 2017
 #standardSQL
 
-#standardSQL
 WITH SUMWEEK AS
 (SELECT  
         --"Week" as Time_type
@@ -48,9 +47,7 @@ SUMMONTH AS
 FROM `bigquery-public-data.google_analytics_sample.ga_sessions_201706*`
 GROUP BY  trafficSource.source, time
 order by revenue desc),
---select * from sumweek
---UNION all                --*mình có thể type chữ week và month như 1 cột luôn
---select * from summonth
+
 SUMALL AS
 (SELECT 
 CASE WHEN time BETWEEN '201722' AND '201726' THEN 'Week'
@@ -87,12 +84,6 @@ SELECT PURC.month,PURC.avg_pageviews_purchase, NONPURC.avg_pageviews_non_purchas
 FROM PURC
 LEFT JOIN NONPURC
 ON PURC.month=NONPURC.month
---nếu ở những CTE trên mình để thứ tự column month trước month
---thì ở dưới này mình có thể ghi
---SELECT P.*, NP.avg_pageviews_non_purchase
---FROM PURC P
---LEFT JOIN NONPURC NP
---ON P.month=NP.month
 
 
 -- Query 05: Average number of transactions per user that made a purchase in July 2017
@@ -156,5 +147,3 @@ SELECT month, SUM (num_product_view) as num_product_view,
 FROM A
 GROUP BY month
 ORDER BY month 
-
---10đ - Mai lên Tiki làm luôn :))
