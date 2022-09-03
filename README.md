@@ -1,11 +1,11 @@
 # DA_Portfolio
-Hi, I'm Phuong Anh! I have a research background 
+Hi, I'm Phuong Anh! I have a research background with experience in posing data-driven insights in banking, technology industry. ...
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
 # SQL
-Video Games Sales Analysis
-Code: video_games_sales.ipynb
+[Ecommerce Analysis]
+Code: 
 Description: The dataset contains 16715 records as of 2016. There is a list of video games with sales (by region), year of release, platform, critics and users score. The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis), analyzing region based user profiles, measuring statistical factors, hypothesis testing.
 Skills: data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.
 Technology: Python, Pandas, Numpy, Scipy Stats, Seaborn, Matplotlib.
