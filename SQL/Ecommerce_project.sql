@@ -1,23 +1,23 @@
 -- Query 01: calculate total visit, pageview, transaction and revenue for Jan, Feb and March 2017 order by month
 #standardSQL
 SELECT
-format_date("%Y%m", parse_date("%Y%m%d", date)) as month,
-	COUNT(totals.visits) as visits, 
-	SUM(totals.pageviews) as pageview,
-	SUM(totals.transactions) as transaction, 
-	SUM(totals.totalTransactionRevenue)/POWER(10,6) as revenue
+format_date("%Y%m", parse_date("%Y%m%d", date)) AS month,
+	COUNT(totals.visits) AS visits, 
+	SUM(totals.pageviews) AS pageview,
+	SUM(totals.transactions) AS transaction, 
+	SUM(totals.totalTransactionRevenue)/POWER(10,6) AS revenue
 FROM `bigquery-public-data.google_analytics_sample.ga_sessions_*`
-WHERE _table_suffix between '20170101' and '20170331' 
+WHERE _table_suffix BETWEEN '20170101' AND '20170331' 
 GROUP BY month
 ORDER BY month
 
 
 -- Query 02: Bounce rate per traffic source in July 2017
 #standardSQL
-SELECT trafficSource.source as source, 
-        COUNT(totals.visits) as totals_visits, 
-        COUNT(totals.bounces) as total_no_of_bounces,
-        COUNT(totals.bounces)*100/COUNT(totals.visits) as bounce_rate
+SELECT trafficSource.source AS source, 
+        COUNT(totals.visits) AS totals_visits, 
+        COUNT(totals.bounces) AS total_no_of_bounces,
+        COUNT(totals.bounces)*100/COUNT(totals.visits) AS bounce_rate
 FROM `bigquery-public-data.google_analytics_sample.ga_sessions_201707*`
 GROUP BY trafficSource.source
 ORDER BY COUNT(totals.visits) DESC
