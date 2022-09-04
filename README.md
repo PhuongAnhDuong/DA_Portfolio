@@ -5,7 +5,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 # [SQL](https://github.com/PhuongAnhDuong/DA_Portfolio/tree/main/SQL)
 ## Ecommerce Analysis
+
 Code: [Ecommerce Analysis](https://github.com/PhuongAnhDuong/DA_Portfolio/blob/main/SQL/Ecommerce_project.sql)
+
 Description: The sample dataset provides an obfuscated Google Analytics 360 dataset that can be accessed via BigQuery. Google Merchandise Store is a real ecommerce store. It includes the following kinds of information:
 
 - Traffic source data: information about where website visitors originate. 
@@ -20,14 +22,16 @@ The project involves performing data analysis for real world business metrics su
 - Cohort map from pageview to addtocart to purchase
 etc.
 
-# Power BI
+# [Power BI](https://github.com/PhuongAnhDuong/DA_Portfolio/tree/main/Power%20BI)
 
 ## Telecom User Churn Analysis
-Power BI Dashboard: [Dashboard](https://github.com/PhuongAnhDuong/DA_Portfolio/blob/main/Power%20BI/User%20Churn%20Analysis/Churn%20Analysis%20Dashboard.pbix)
-Dashboard canvas: [Dashboard canvas](https://github.com/PhuongAnhDuong/DA_Portfolio/blob/main/Power%20BI/User%20Churn%20Analysis/Dashboard%20Canvas.pdf)
+
+Power BI Dashboard: [Dashboard](https://github.com/PhuongAnhDuong/DA_Portfolio/blob/main/Power%20BI/User%20Churn%20Analysis/Churn%20Analysis%20Dashboard%20.pbix)
+
+Dashboard canvas: [Dashboard canvas](https://github.com/PhuongAnhDuong/DA_Portfolio/blob/main/Power%20BI/User%20Churn%20Analysis/Churn%20Analysis%20Dashboard.pdf)
 Description: The project includes the following steps: data loading, data cleaning and preprocessing, filling missing values, EDA (exploratory data analysis),  measuring statistical factors, data visualization. 
 
-Skills: data cleaning, data analysis, descriptive statistics, central limit theorem, hypothesis testing, data visualization.
+Skills: data cleaning, data analysis, descriptive statistics, data visualization.
 
 Results: created an analytical dashboard to analyse user churn at a telecom company.
 Insights and Recommendations:
