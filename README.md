@@ -31,19 +31,25 @@ Skills: data cleaning, data analysis, descriptive statistics, central limit theo
 
 Results: created an analytical dashboard to analyse user churn at a telecom company.
 Insights and Recommendations:
-The most reason for churn is related to competitors (~45%). This result demonstrates the impact of competitiveness and why maintaining the competitive edge and customer success is important for maintaining current customers.
-Demographic
 
-As the age increases the churn rate increase too. Over 85 years old, we observe that the churn rate is 0.52%.
-Contract
+#### Insights
 
-A group contract offers advantages and is generally cheaper. Comparing the group's contract we can observe that the churn rate is lower for customers who are part of a group than for those who are not.
-Comparing annual and monthly contracts, it is also clear that customers with a monthly contract have a much higher churn rate (46.29%) than customers with an annual contract (6.62%).
-Subscription types & Charges
+Demographic													
+-The number of churners is 1796, accounting for more than 1/4 of total number of users. 														
+-About 83% churners are senior citizen, in both gender.										-n0-1 year subscribers are those who cancelled their subscription the most( 992 users cancelled, 3.4 times higher than 1-2 year subscribers). The graph also indicated that  the longer users use our service, the fewer chances they will churn, from 992 cancellations (0-1 year subscribers) to 6 cancellation (6-7 year subscribers).													
+- Regarding churning reasons, 805 churners accounting for 44% of total churners cited “Competitors product and offers” is the number 1 churning reason. Among churn reasons in this category, the most common reasons are competitors have better offers and better devices.
+--The 2 second most popular service cancelling reasons are the attitude of service provider, supporters and dissatisfied product quality (591 churners in total)
 
-Analyzing the churn rate from the point of view of average data consumption (GB) with downloads, we noticed that the churn rate is quite pronounced in the group of customers whose average consumption is 5 GB per month and have the Unlimited Data Plan compared to with those who don't.
-International calls vs churn rate: analyzing the data of customers who make international calls, we found that in percentage terms 72% of customers do not have a plan and, therefore, this finding makes them potential clients for the new promotion of the international plan.
-Customer Service Call vs Churn: While the non-churned group has an average of 0.37 calls to customer service, the churned group has an average of 2.20 calls. This measure demonstrates customer dissatisfaction. Despite this result, looking specifically at the state of California, it is observed that while the percentage of churn is 63.24%, the number of calls is on average 0.86 or 44 calls in total.
+Phone services									
+Churners has a big preference for usually subscribed for unlimited data plan (80%) and only 1/3 used device protection & backup. 
+
+In general, churners spend more time on local calling (from 40 to 699 minutes) than international calling (from 41 to 446 minutes). The calling time increases as their subscription increase.				
+
+Contract					
+Most of churners signed month-to month contract (1579/1796 users) with payperless payment methods such as direct debit (1277/1796 users - 71%) favoured the most followed by Credit card (378/1796 users - 21%).																			
+#### Recommendations														
+Based on demographic and services analysis, the company should focus on user retention strategy targeting 0-1 year subscribers, senior citizen in both gender.									
+Based on churn reasons, the company should conduct more competitor analysis to create a more appealing offer as well as improve product reliability, attitude and expertise of the supporting service & sales team.
 
 ## Global Superstore Sales
 Power BI Dashboard: [Dashboard](https://github.com/PhuongAnhDuong/DA_Portfolio/blob/main/Power%20BI/Global%20Superstore%20Sales/Global%20Superstore%20Sales%20Analysis%20Dashboard.pbix)
