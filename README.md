@@ -1,5 +1,5 @@
 # DA_Portfolio
-Hi, ...
+Hi, I'm Phuong Anh. I have a research background with a proven track record of using both quantitative and qualitative method to gain insights from the data, answering business questions for businesses in Tech, Artificial Intelligence/Machine Learning, and Banking industry.  
 
 This is a repository to showcase skills, share projects and track my progress in Data Analytics related topics.
 
