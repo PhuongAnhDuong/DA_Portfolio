@@ -71,7 +71,7 @@ Description: The project includes the following steps: data loading, data cleani
 
 Skills: data cleaning, data analysis, descriptive statistics, data visualization.
 
-Results: created an analytical dashboard to analyse user churn at a telecom company.
+Results: created an analytical dashboard about sales and find out potential products
 ### Insights and Recommendations:
 
 #### Insight
