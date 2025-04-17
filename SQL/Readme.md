@@ -29,10 +29,15 @@ This SQL project focuses on analyzing key metrics related to user engagement and
 The code encompasses several crucial analyses:
 
 **Daily Active Users (DAU) Comparison**: It compares the average DAU of all apps across two selected time periods, calculating the percentage change in user engagement. This helps identify trends in user retention and activity.
+
 **Daily User Metrics**:  The project retrieves detailed daily metrics, including new users, users who muted notifications, the unmute rate, and DAU. This data provides a granular view of user interactions and behaviors.
+
 **Monthly Active Users (MAU):** It calculates the average MAU by determining the maximum monthly active users for the specified app, offering insights into long-term user engagement.
+
 **Page Views Analysis**: The average number of page views is calculated for two distinct periods, allowing for an evaluation of user engagement with specific features of the app.
+
 **Weekly Active Users and Loyal Users**: The project retrieves data on weekly active users and loyal users, helping to assess user commitment over time.
+
 **Total Clicks**: Finally, it calculates the total number of clicks within the app, providing a measure of overall user interaction.
 
 By synthesizing these metrics, the project aims to present a comprehensive overview of user engagement patterns, enabling data-driven decision-making to enhance app performance and user satisfaction.
