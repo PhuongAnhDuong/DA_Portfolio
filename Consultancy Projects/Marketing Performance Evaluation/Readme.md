@@ -1,2 +1,0 @@
-This project focuses on Tulsidas, a retail business in Gurgaon specializing in bridal and traditional clothing. I conducted a comprehensive marketing evaluation, analyzing market dynamics and customer segmentation to identify challenges like low website traffic and engagement. My proposed strategies include a website redesign and targeted social media campaigns to enhance brand visibility and customer loyalty. 
-This work showcases my analytical skills and strategic thinking in driving marketing success.
