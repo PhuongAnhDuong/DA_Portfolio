@@ -1,4 +1,4 @@
-[Consulting presentation] (https://github.com/PhuongAnhDuong/Data_Analyst_Portfolio/blob/main/Consultancy%20Projects/Business%20Expansion%20in%20the%20UK%20market/Coffee%20Chain's%20Market%20Expansion%20to%20the%20UK.pptx)
+[Consulting presentation]https://github.com/PhuongAnhDuong/Data_Analyst_Portfolio/blob/main/Consultancy%20Projects/Business%20Expansion%20in%20the%20UK%20market/Coffee%20Chain's%20Market%20Expansion%20to%20the%20UK.pptx)
 
 As part of my MSc at Nottingham Trent University, I independently developed a comprehensive market entry strategy for Cong Ca Phe, a fast-growing Vietnamese coffee chain with a strong presence across Asia and North America. The project aimed to assess the feasibility and design a strategic plan for expanding into the UK market—leveraging the brand's cultural heritage and unique product offerings to stand out in a highly competitive industry. 
 
