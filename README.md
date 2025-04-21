@@ -68,12 +68,14 @@ Power BI Dashboard: [Dashboard](https://github.com/PhuongAnhDuong/DA_Portfolio/b
 
 Dashboard canvas: [Dashboard canvas](https://github.com/PhuongAnhDuong/DA_Portfolio/blob/main/Power%20BI/Global%20Superstore%20Sales/Global%20Superstore%20Sales%20Analysis.pdf)
 
-Skills: data cleaning, data analysis, descriptive statistics, data visualization.
+The project applied SQL and Power BI to create an interactive dashboard visualising sales trends from over 52 thousand records and recommended strategies to mitigate seasonal sales drops and enhance marketing efforts in high-potential markets.
+
+Skills: Data visualisation, Ecommerce analysis, Strategic recommendations, Market trends analysis
 
 # Consultancy projects
 
 ## Business expansion to the UK market
-[Consulting presentation](https://github.com/PhuongAnhDuong/Data_Analyst_Portfolio/blob/main/Consultancy%20Projects/Business%20Expansion%20in%20the%20UK%20market/Coffee%20Chain's%20Market%20Expansion%20to%20the%20UK.pptx)
+[Presentation](https://github.com/PhuongAnhDuong/Data_Analyst_Portfolio/blob/main/Consultancy%20Projects/Business%20Expansion%20in%20the%20UK%20market/Coffee%20Chain's%20Market%20Expansion%20to%20the%20UK.pptx)
 
 As part of my MSc at Nottingham Trent University, I independently developed a comprehensive market entry strategy for Cong Ca Phe, a fast-growing Vietnamese coffee chain with a strong presence across Asia and North America. The project aimed to assess the feasibility and design a strategic plan for expanding into the UK market—leveraging the brand's cultural heritage and unique product offerings to stand out in a highly competitive industry. 
 
