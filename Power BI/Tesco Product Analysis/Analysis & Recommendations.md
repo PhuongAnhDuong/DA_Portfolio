@@ -1,6 +1,6 @@
 ## Tesco Product Analysis
 
-[Dashboard canvas] (https://github.com/PhuongAnhDuong/Data_Analyst_Portfolio/blob/main/Power%20BI/Tesco%20Product%20Analysis/Tesco%20Finest%20Product%20Analysis.png)
+[Dashboard canvas](https://github.com/PhuongAnhDuong/Data_Analyst_Portfolio/blob/main/Power%20BI/Tesco%20Product%20Analysis/Tesco%20Finest%20Product%20Analysis.png)
 
 Recent market trends indicate that in-store shopping continues to dominate, particularly among middle- and lower-income consumers who prioritize perceived value (Mintel 2024). This shift reveals that consumers are increasingly moving away from a sole focus on price to a more comprehensive understanding of value that includes quality, variety, and sustainability.
 Tesco, as the third-largest supermarket chain globally and the leading grocery retailer in the UK, is well-positioned to capitalize on these trends. 
